@@ -1,8 +1,0 @@
-{
-  "services": {
-    "title": "string",
-    "description": "string",
-    "promoCode": "string"
-    "isActivated": "boolean",
-  },
-}
